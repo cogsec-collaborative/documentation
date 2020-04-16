@@ -1,6 +1,6 @@
-ADIN_HOWTO: set up a disinformation deployment
+# ADMIN_HOWTO: set up a disinformation deployment
 
-= You’re going to need: 
+## You’re going to need: 
 
 * People
 ** Leads
@@ -26,7 +26,7 @@ ADIN_HOWTO: set up a disinformation deployment
 ** Feeds in
 ** Feeds out
 
-= Things to do when you start
+## Things to do when you start
 
 * Find 2 people to work with you as leads.  Nobody leads a full-on deployment on their own, and everyone has to sleep, or step away, or handle a screaming child/cat/partner/self sometimes.  Also Covid - you might get sick too, and should always have a good succession plan: all links and passwords to critical stuff should be with 3 people etc. 
 * Create a google account, and start a googledrive with it.  Add two folders: one for admins, one for the team.  If you think you’re going to have multiple subteams, add a folder for the team captains.  You’re not doing this to enforce hierarchy: you’re doing this to limit the number of people who have to see each piece of PII or sensitive material (this is disinformation work - work as though your team will get breached). 
