@@ -1,11 +1,11 @@
-LIST_Glossary_of_terms
+# LIST_Glossary_of_terms
 
 We all come from different disciplines: words like "campaign" have different meanings to a military, an adtech or a tech person (and if you're all three, you get to fight about definitely with yourself).  There are also *committees* dedicated to defining what words like "disinformation" and "misinformation" mean, and the differences between them. 
 
 We ain't got time for that here.  This glossary is our latest best effort at definitions for some of the words we use a lot between us, and what we (mostly) think we mean when we say them. 
 
 
-= Mission words
+## Mission words
 
 * Cognitive security: The top layer of security, alongside Physical-security and Cyber-security.  The art and practice of protecting against hacks that exploit cognitive weaknesses, especially cognitive hacks that are online and/or in large numbers of people.  One of the reasons the MisinfoSec crowd started talking about Cognitive Security (including rebranding as the CogSecCollab) in 2020 is a belief that, in order to deal with things like disinformation, we need to focus on the thing we’re protecting.  That means working on reducing disinformation, but also on boosting good information when we see it.  
 
@@ -15,7 +15,7 @@ We ain't got time for that here.  This glossary is our latest best effort at def
 
 Clare Wardle's [work on the differences between misinformation and disinformation](https://medium.com/1st-draft/fake-news-its-complicated-d0f773766c79) is still some of the best. 
 
-= Layer words
+## Layer words
 
 * Campaign: Campaigns are long-term efforts to change or confuse populations. 
 

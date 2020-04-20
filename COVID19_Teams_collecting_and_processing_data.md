@@ -1,58 +1,58 @@
-Covid19 Teams collecting and processing Covid19 disinformation data
+# Covid19 Teams collecting and processing Covid19 disinformation data
 
 This note is here to list all the other teams tracking covid19 disinformation that we know about, our connections to them, whether they have data feeds etc.  
 
-<action: add links from Mis/Disinformation Metasearch (Nate)>
+_action: add links from Mis/Disinformation Metasearch (Nate)_
 
-= Teams with data
+## Teams with data
 
-== EU Stratcom
+### EU Stratcom
 https://euvsdisinfo.eu/disinformation-cases/?offset=0
 Tracks and publishes Kremlin and Chinese COVID-19 disinformation
 We’ve scraped EuVsDisinfo in DKAN
 
-== Peacetechlabs 
+### Peacetechlabs 
 Site: Peacetechlab.org/coronavirus
 
-== Carnegie Endowment 
+### Carnegie Endowment 
 Site: https://carnegieendowment.org/specialprojects/coronavirus
 
 We’ve scraped Carnegie’s list of narratives
 
-== Alliance for Security Democracy (Hamilton2.0)
+### Alliance for Security Democracy (Hamilton2.0)
 
 Runs the Hamilton2.0 dashboard, monitoring accounts connected to various governments (Russia, China etc)  https://securingdemocracy.gmfus.org/hamilton-dashboard/
 
 Covid19 weekly reports on messaging from Russian and Chinese state-backed media / diplomatic actors and analysis pieces are in https://securingdemocracy.gmfus.org/coronavirus-and-information-manipulation
 
-== Kate Starbird group, UW
+### Kate Starbird group, UW
 
-== UALR COSMOS (Nitin Agarwal group)
+### UALR COSMOS (Nitin Agarwal group)
 List of narratives at http://cosmos.ualr.edu/covid-19
 https://arkansasag.gov/media-center/news-releases/rutledge-to-partner-with-ualr-tracking-false-covid-19-websites-and-scams-online/ 
 
-== Ryerson University misinfowatch
+### Ryerson University misinfowatch
 https://covid19misinfo.org/misinfowatch/
 
 A project from the Social Media Lab at Ryerson University to provide reliable information and real-time information visualization dashboards to track false claims related to the spread of the virus from around the web (announcement).
 
-== Correctiv
+### Correctiv
 https://forms.crowdnewsroom.org/corona-fakenews/corona-fakenews/slide0
 German Fake News Tracking form
 
-== Centre for Countering Digital Hate
+### Centre for Countering Digital Hate
 https://twitter.com/Imi_Ahmed/status/1241714991927091201?s=20
 info@counterhate.co.uk
 CCDH are asking people to send in examples of fakenews around the coronavirus. If you see examples of Covid-19 misinformation & fake cures, esp on Facebook/ WhatsApp, please send URLs/ screenshots to info@counterhate.co.uk
 
-== CTI League
+### CTI League
 cti-league.com
 https://www.reuters.com/article/us-coronavirus-cyber/cybersecurity-experts-come-together-to-fight-coronavirus-related-hacking-idUSKBN21D049?feedType=RSS&feedName=technologyNews
 
 
-= Processing teams
+## Processing teams
 
-== WHO EPI-WIN
+### WHO EPI-WIN
 
 https://www.who.int/docs/default-source/coronaviruse/risk-comms-updates/update-14--epi-win-covid19.pdf?sfvrsn=5809b632_2
 
@@ -65,30 +65,29 @@ WHO Travel Advice:https://www.who.int/ith/en/
 Email: EPI-WIN@who.int  
 Website:www.EPI-WIN.com 
 
-== Bellingcat
+### Bellingcat
 
 https://www.bellingcat.com/tag/covid19/
 https://www.bellingcat.com/news/2020/03/13/monitoring-and-debunking-covid-19-panic-the-haarlem-aldi-hoax/
 
-== NATO Brussels
+### NATO Brussels
 
-== NATO Riga
+### NATO Riga
 
-== Canada government (forget which group)
+### Canada government (forget which group)
 
-== CMU 
+### CMU 
 
-== Princeton ESOC
+### Princeton ESOC
 
 Works with Microsoft. Collects data on teams working on Covid19 misinformation 
 https://esoc.princeton.edu/files/covid-019-disinformation-data
 
 Resources list (useful for fact-checking): https://drive.google.com/file/d/1y6W3fw46R40dQM1wyNFofIsZrlPnq_or/view
 
+### Fact-Checking teams
 
-= Fact-Checking teams
-
-== Agence France Presse
+### Agence France Presse
 
 https://factcheck.afp.com/busting-coronavirus-myths
 (Action: 287 myths to scrape...)

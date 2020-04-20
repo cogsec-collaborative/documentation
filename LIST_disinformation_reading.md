@@ -1,7 +1,7 @@
-LIST: Disinformation reading
-= Lists of lists
+# LIST: Disinformation reading
+## Lists of lists
 
-== Awesome misinformation
+### Awesome misinformation
 
 https://github.com/bodacea/misinfolinks
 
