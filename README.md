@@ -14,7 +14,11 @@ Advice notes and useful lists for people running and working on disinformation d
 * [Disinformation response glossary](LIST_Glossary_of_terms.md)
 * [Reading list](LIST_disinformation_reading.md)
 * [Disinformation teams](LIST_disinformation_teams.md)
+
+## tools
+
 * [Disinformation tools](LIST_disinformation_tools.md)
+* [AMITT](TOOL_AMITT.md)
 
 ## Subject-specific resources
 
@@ -27,4 +31,3 @@ Covid19 Specific Resources
 ## Technical Notes
 
 * [Save messenger audiofiles](TECH_HOWTO_save_messenger_audio_files.md)
-* []()
