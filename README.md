@@ -1,7 +1,7 @@
 # documentation
 Where we write stuff about writing stuff
 
-Advice notes and useful lists for people running and working on disinformation deployments.
+Advice notes and useful lists for people running and working on disinformation deployments.  Most of these have been subsumed into the team guide, [The Big Book of Disinformation Response]('/BigBookOfDisinformationResponse')
 
 ## Managing a Disinformation Deployment
 
