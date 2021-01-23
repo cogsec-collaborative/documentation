@@ -4,6 +4,7 @@
 These are chapters from the Big Book of Disinformation Response, as used in the CTI League's Disinformation threat intelligence team for its Covid19 disinformation response. We have modified the chapters from their original form by removing CTI-specific notes and adding in other notes that might help other teams who are engaging in similar work. We've released them in the hope they can be useful to other teams running disinformation defense.
 This book is intended for use by groups setting up their own disinformation monitoring. 
 
+You can read this online chapter by chapter below, or as [a PDF with all these chapters in](BigBookOfDisinfoResponse_AllChapters.pdf). 
 
 ## Book Structure
 
