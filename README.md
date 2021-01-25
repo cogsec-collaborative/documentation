@@ -5,6 +5,7 @@ Books, advice notes, and useful lists, written for people running and working on
 ## Books
 
 * Team guide: [The Big Book of Disinformation Response](/BigBookOfDisinformationResponse)
+* AMITT guides: [AMITT Design Guides](/AMITT_Design_Guides)
 
 ## Advice Notes and Lists
 
