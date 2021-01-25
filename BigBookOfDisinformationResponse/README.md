@@ -11,7 +11,7 @@ You can read this online chapter by chapter below, or as [a PDF with all these c
 * Introduction
    * [Chapter 0 About this book](C00_about_this_book.pdf)
 * What are you trying to do? 
-   * [Chapter 1 Disinformation](C01_disinformation.pdf)
+   * [Chapter 1 Cognitive Security](C01_cognitive_security.pdf)
    * [Chapter 2 Disinformation Models](C02_disinformation_models.pdf)
    * [Chapter 3 Influence techniques](C03_influence_techniques.pdf)
 * Getting organised
