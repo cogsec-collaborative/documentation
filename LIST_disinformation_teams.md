@@ -1,8 +1,36 @@
 # LIST Disinformation teams
 
-## Active teams
+## Teams with Volunteers
 
-### Indiana University OSoMe
+These teams we know:
+* [RealityTeam](http://realityteam.org/) - creating and deploying counter-narratives
+* [CogSecCollab](http://cogsec-collab.org/) - standards, deployments etc
+* [CTI League Disinformation Team](https://cti-league.com/) - infosec group, focussed on Covid19
+* [Bellingcat investigation team](https://www.bellingcat.com/author/bellingcat/) - OSINT investigations
+* [Credibility Coalition](https://credibilitycoalition.org/) - research 
+* [Pro-Truth Pledge](https://www.protruthpledge.org/) - persuading politicians etc to pledge to be truthful
+* [Public Editor](https://www.publiceditor.io/join) - news article markup
+* [Art Into Science]()
+* [Project Domino]() - machine learning
 
-OSoMe (awe•some) is a joint project of the Network Science Institute (IUNI), the Center for Complex Networks and Systems Research (CNetS) at SICE, and the Media School at Indiana University. OSoMe unites data scientists and journalists in studying the role of media and technology in society, and curbing the spread of misinformation online and the manipulation of social media. Here we highlight tools, findings, publications, and resources.
+These, we’re not so familiar with:
+* [AVAAZ](https://secure.avaaz.org/campaign/en/disinfo_volunteer_231/)
+* [UN Verified project](https://shareverified.com/en) - sharing counter-narratives
+* [Cites on the Internet (MWI)](https://mwi.pl/) - Poland
+* [PGP Stronger](https://stronger.org/) - reporting and commenting on disinfo
+* [Czech Elves](https://www.facebook.com/cestielfoveofficial/) - Czech Republic
+* [Federation of American Scientists Disinformation Research Group](https://fas.org/ncov/disinformation-reports/) (unconfirmed) - scientific research
+
+## University Teams
+
+* [Oxford Internet Institute](https://www.oii.ox.ac.uk)
+* [Carnegie-Mellon CASOS]()
+* [Centre for Research and Evidence on Security Threats (CREST)]()
+* [University of Arkansas at Little Rock: COSMOS](http://cosmos.ualr.edu/)
+* [Indiana University OSoMe]()
+* [Ryerson Uni social media lab](https://socialmedialab.ca/)
+* [Harvard University: Shorenstein Center](https://shorensteincenter.org/)
+* [Harvard University: Belfer Center]()
+* [Stanford University: Internet Observatory]()
+* [University of Washington: Center for an Informed Public]()
 
