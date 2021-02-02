@@ -34,3 +34,4 @@ These, we’re not so familiar with:
 * [Stanford University: Internet Observatory]()
 * [University of Washington: Center for an Informed Public]()
 
+More groups on [list](https://docs.google.com/spreadsheets/d/1v9jTkL267n4-cS3DOdvbYguoHfcte6bjqJd_a7Vp26A/edit#gid=375887947) and [map](https://datastudio.google.com/u/2/reporting/a8491164-6aa8-45d0-b609-c70339689127/page/ierzB)
