@@ -10,10 +10,10 @@ You can read this online chapter by chapter below, or as [a PDF with all these c
 
 * Introduction
    * [Chapter 0 About this book](C00_about_this_book.pdf)
-   * [Chapter 1 Cognitive Security](C01_cognitive_security.pdf)
 * What are you looking for? 
-   * [Chapter 2 Digital Harms](C02_digital_harms.pdf)
-   * [Chapter 3 Influence techniques](C03_influence_techniques.pdf)
+   * [Chapter 1 Digital Harms](C01_digital_harms.pdf)
+   * [Chapter 2 Influence techniques](C02_influence_techniques.pdf)
+   * [Chapter 3 Cognitive Security](C03_cognitive_security.pdf)
    * [Chapter 4 Disinformation Models](C04_disinformation_models.pdf)
 * Getting organised
    * [Chapter 5 Looking after yourself](C05_looking_after_yourself.pdf)
