@@ -7,7 +7,8 @@ These are introductions to the AMITT family of disinformation models: STIX, TTPs
 
 ## Guides
 
-* [AMITT Design Guide](00_AMITT_Design_Guide.pdf) - design, philosophy, and ways to work with AMITT frameworks
+* [AMITT Design Guide](00_AMITT_Design_Guide_version1.pdf) - design and philosophy behind AMITT frameworks
+* [AMITT User Guide](05_AMITT_User_Guide.pdf) - ways to work with AMITT frameworks
 * [AMITT TTP Guide](01_AMITT_TTP_Guide.pdf) - describes each of the AMITT and counter TTPs
 * [Proposed changes to AMITT](02_Proposed_Changes_to_AMITT.pdf)
 * [AMITT Use Cases](03_AMITT_Use_Cases.pdf) - examples
