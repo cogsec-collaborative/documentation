@@ -5,7 +5,7 @@ Books, advice notes, and useful lists, written for people running and working on
 ## Books
 
 * Team guide: [The Big Book of Disinformation Response](/BigBookOfDisinformationResponse)
-* AMITT guides: [AMITT Design Guides](/AMITT_Design_Guides)
+* AMITT guides: moved to [AMITT Main Repository](https://github.com/cogsec-collaborative/AMITT/tree/main/AMITT_GUIDES)
 
 ## Advice Notes and Lists
 
