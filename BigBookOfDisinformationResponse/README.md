@@ -37,8 +37,9 @@ You can read this online chapter by chapter below, or as [a PDF with all these c
    * [Annex C General References](CCC_general_references.pdf)
    * [Annex D Covid-related disinformation](CDD_covid19_disinformation.pdf)
    * [Annex E Election-related disinformation](CEE_elections.pdf)
+   * [Annex F What Do I Tell My Dad](CEF_What_Do_I_Tell_My_Dad.pdf)
 
-For latest edits, see the [working copy of the book](https://drive.google.com/drive/u/0/folders/164PoJDySDez6sr2yvcP6fPodpHifDIi7).  Related references from the CogSecCollab team include the AMITT design guide. 
+For latest edits, see the [working copy of the book](https://docs.google.com/document/d/1vwDr8BEtTvpCCKa9dD2Te5CXMcHlyg-QvttxTMO72aw/edit).  Related references from the CogSecCollab team include the AMITT design guide. 
 
 
 Copyright CC-BY-SA, CogSecCollab and CTI League Disinformation Team
